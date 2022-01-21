@@ -1,0 +1,76 @@
+{"level":"INFO","time":"2022-01-20T10:06:54.986+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"INFO","time":"2022-01-20T10:12:32.323+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"INFO","time":"2022-01-20T10:25:18.325+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"ERROR","time":"2022-01-20T10:25:53.410+0800","caller":"controller/user.go:16","msg":"SignUp with invalid param","error":"Key: 'ParamSignUp.RePassword' Error:Field validation for 'RePassword' failed on the 'eqfield' tag"}
+{"level":"INFO","time":"2022-01-20T11:08:56.510+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"ERROR","time":"2022-01-20T11:09:00.120+0800","caller":"controller/user.go:16","msg":"SignUp with invalid param","error":"Key: 'ParamSignUp.RePassword' Error:Field validation for 'RePassword' failed on the 'eqfield' tag"}
+{"level":"INFO","time":"2022-01-20T11:13:56.623+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"INFO","time":"2022-01-20T11:15:29.488+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"ERROR","time":"2022-01-20T11:15:58.352+0800","caller":"controller/user.go:19","msg":"SignUp with invalid param","error":"invalid character '}' looking for beginning of object key string"}
+{"level":"INFO","time":"2022-01-20T15:01:32.537+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"INFO","time":"2022-01-20T15:05:12.080+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"INFO","time":"2022-01-20T15:52:29.048+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"ERROR","time":"2022-01-20T15:52:47.507+0800","caller":"controller/user.go:24","msg":"SignUp with invalid param","error":"Key: 'ParamSignUp.RePassword' Error:Field validation for 'RePassword' failed on the 'eqfield' tag"}
+{"level":"INFO","time":"2022-01-20T16:17:17.795+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"ERROR","time":"2022-01-20T16:17:38.965+0800","caller":"controller/user.go:64","msg":"登录失败","error":"用户已存在"}
+{"level":"ERROR","time":"2022-01-20T16:17:49.043+0800","caller":"controller/user.go:64","msg":"登录失败","error":"用户已存在"}
+{"level":"INFO","time":"2022-01-20T16:19:35.854+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"ERROR","time":"2022-01-20T16:19:40.324+0800","caller":"controller/user.go:64","msg":"登录失败","error":"用户名或密码错误"}
+{"level":"INFO","time":"2022-01-20T20:04:43.829+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"ERROR","time":"2022-01-20T20:04:54.721+0800","caller":"controller/user.go:53","msg":"登录失败","error":"key is of invalid type"}
+{"level":"INFO","time":"2022-01-20T20:08:43.405+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"ERROR","time":"2022-01-20T20:08:50.049+0800","caller":"controller/user.go:55","msg":"登录失败","error":"key is of invalid type"}
+{"level":"INFO","time":"2022-01-20T20:11:27.646+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"ERROR","time":"2022-01-20T20:11:31.064+0800","caller":"controller/user.go:55","msg":"登录失败","error":"数据库获取数据错误"}
+{"level":"INFO","time":"2022-01-20T20:16:11.431+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"ERROR","time":"2022-01-20T20:16:21.223+0800","caller":"controller/user.go:56","msg":"登录失败","error":"key is of invalid type"}
+{"level":"INFO","time":"2022-01-20T20:18:24.334+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"ERROR","time":"2022-01-20T20:18:42.015+0800","caller":"controller/user.go:56","msg":"登录失败","error":"key is of invalid type"}
+{"level":"ERROR","time":"2022-01-20T20:19:47.961+0800","caller":"controller/user.go:56","msg":"登录失败","error":"key is of invalid type"}
+{"level":"INFO","time":"2022-01-20T20:24:18.384+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"ERROR","time":"2022-01-20T20:24:25.982+0800","caller":"controller/user.go:56","msg":"登录失败","error":"用户名或密码错误"}
+{"level":"ERROR","time":"2022-01-20T20:26:45.624+0800","caller":"controller/user.go:56","msg":"登录失败","error":"key is of invalid type"}
+{"level":"ERROR","time":"2022-01-20T20:26:49.238+0800","caller":"controller/user.go:56","msg":"登录失败","error":"key is of invalid type"}
+{"level":"INFO","time":"2022-01-20T20:31:56.628+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"ERROR","time":"2022-01-20T20:32:01.222+0800","caller":"controller/user.go:56","msg":"登录失败","error":"key is of invalid type"}
+{"level":"ERROR","time":"2022-01-20T20:32:04.377+0800","caller":"controller/user.go:56","msg":"登录失败","error":"用户名或密码错误"}
+{"level":"ERROR","time":"2022-01-20T20:32:08.581+0800","caller":"controller/user.go:56","msg":"登录失败","error":"用户不存在"}
+{"level":"ERROR","time":"2022-01-20T20:32:19.354+0800","caller":"controller/user.go:56","msg":"登录失败","error":"key is of invalid type"}
+{"level":"INFO","time":"2022-01-20T20:37:53.518+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"ERROR","time":"2022-01-20T20:37:58.961+0800","caller":"controller/user.go:56","msg":"登录失败","error":"生成token失败"}
+{"level":"INFO","time":"2022-01-20T20:40:07.010+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"ERROR","time":"2022-01-20T20:40:11.642+0800","caller":"controller/user.go:56","msg":"登录失败","error":"生成token失败"}
+{"level":"INFO","time":"2022-01-20T20:41:57.307+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"ERROR","time":"2022-01-20T20:42:00.166+0800","caller":"controller/user.go:56","msg":"登录失败","error":"生成token失败"}
+{"level":"ERROR","time":"2022-01-20T20:42:01.153+0800","caller":"controller/user.go:56","msg":"登录失败","error":"生成token失败"}
+{"level":"ERROR","time":"2022-01-20T20:42:04.534+0800","caller":"controller/user.go:56","msg":"登录失败","error":"用户不存在"}
+{"level":"ERROR","time":"2022-01-20T20:42:09.778+0800","caller":"controller/user.go:56","msg":"登录失败","error":"用户名或密码错误"}
+{"level":"ERROR","time":"2022-01-20T20:42:12.300+0800","caller":"controller/user.go:56","msg":"登录失败","error":"生成token失败"}
+{"level":"INFO","time":"2022-01-20T20:44:03.168+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"ERROR","time":"2022-01-20T20:44:07.060+0800","caller":"controller/user.go:56","msg":"登录失败","error":"生成token失败"}
+{"level":"INFO","time":"2022-01-20T20:48:03.007+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"ERROR","time":"2022-01-20T20:48:06.709+0800","caller":"controller/user.go:56","msg":"登录失败","error":"生成token失败"}
+{"level":"INFO","time":"2022-01-20T20:50:53.192+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"ERROR","time":"2022-01-20T20:50:59.103+0800","caller":"controller/user.go:56","msg":"登录失败","error":"生成token失败"}
+{"level":"INFO","time":"2022-01-20T20:52:02.920+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"ERROR","time":"2022-01-20T20:52:12.365+0800","caller":"controller/user.go:56","msg":"登录失败","error":"生成token失败"}
+{"level":"INFO","time":"2022-01-20T21:05:36.134+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"ERROR","time":"2022-01-20T21:05:39.514+0800","caller":"controller/user.go:56","msg":"登录失败","error":"生成token失败"}
+{"level":"INFO","time":"2022-01-20T21:10:59.857+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"INFO","time":"2022-01-21T09:48:02.236+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"ERROR","time":"2022-01-21T09:50:22.326+0800","caller":"controller/community.go:13","msg":"logic.GetCommunityList() failed","error":"community Get failed"}
+{"level":"ERROR","time":"2022-01-21T09:51:24.090+0800","caller":"controller/community.go:13","msg":"logic.GetCommunityList() failed","error":"community Get failed"}
+{"level":"INFO","time":"2022-01-21T09:54:41.003+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"ERROR","time":"2022-01-21T09:54:46.887+0800","caller":"controller/community.go:13","msg":"logic.GetCommunityList() failed","error":"community Get failed"}
+{"level":"INFO","time":"2022-01-21T09:58:30.700+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"ERROR","time":"2022-01-21T09:58:35.301+0800","caller":"controller/community.go:13","msg":"logic.GetCommunityList() failed","error":"community Select failed, err: missing destination name community_id in *[]models.Community"}
+{"level":"INFO","time":"2022-01-21T10:00:12.615+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"INFO","time":"2022-01-21T10:50:54.248+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"ERROR","time":"2022-01-21T10:53:23.315+0800","caller":"controller/community.go:31","msg":"logic GetCommunityDetail failed","error":"数据为空"}
+{"level":"INFO","time":"2022-01-21T12:56:52.004+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"ERROR","time":"2022-01-21T12:57:45.476+0800","caller":"controller/post.go:14","msg":"CreatePostHandler failed","error":"EOF"}
+{"level":"INFO","time":"2022-01-21T13:12:12.557+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"INFO","time":"2022-01-21T13:28:42.724+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"INFO","time":"2022-01-21T13:29:49.571+0800","caller":"logger/logger.go:44","msg":"init logger success"}
+{"level":"ERROR","time":"2022-01-21T13:30:43.100+0800","caller":"controller/post.go:40","msg":"invalid param","error":"strconv.ParseInt: parsing \"\": invalid syntax"}
+{"level":"INFO","time":"2022-01-21T13:32:37.043+0800","caller":"logger/logger.go:44","msg":"init logger success"}
